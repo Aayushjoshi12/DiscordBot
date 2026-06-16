@@ -5,7 +5,7 @@ import yt_dlp
 import asyncio
 from discord import PCMVolumeTransformer, FFmpegPCMAudio
 
-TOKEN = "MTUxNTY0MTQ4OTAwMTAyNTYyNw.G2YzIV.K4SYqRULMlVvi_J2lIgtTRL9dWiK-e1pgzm5-o"
+TOKEN = "Your_token"
 
 intents = discord.Intents.default()
 intents.message_content = True
